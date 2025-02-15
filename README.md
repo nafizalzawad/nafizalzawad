@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Nafiz Al Zawad! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Computer+Science+%26+Engineering+Student;Sales+%26+Marketing+Specialist;Passionate+about+DBMS%2C+AI%2C+%26+Web+Dev;Football+Enthusiast+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=440&lines=Computer+Science+%26+Engineering+Student;Sales+%26+Marketing+Specialist;Passionate+about+DBMS%2C+AI%2C+%26+Web+Dev;Football+Enthusiast+%26+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
