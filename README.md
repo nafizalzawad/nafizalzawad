@@ -25,12 +25,6 @@
 
 ---
 
-## 🛠️ Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,php,mysql,flask,bootstrap,git,vscode" />
-</p>
-
----
 
 ## 🚀 Notable Projects:
 ### 📌 **TrafficMind: Vehicle Management System** 🚗  
