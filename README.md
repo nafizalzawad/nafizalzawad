@@ -10,7 +10,7 @@
 - 💡 Passionate about **Web Development, DBMS, and AI**  
 - ⚽ Football Enthusiast | Former **Digital Content Writer** at *The Daily Janakantha*  
 - 🏆 **Bishwo Shahitto Kendro** Prize Winner (2015, 2016)  
-- 💼 Currently working as a **Sales & Marketing Specialist** at *Eightcap Bangladesh*  
+- 💼 Currently working as a **Sales & Marketing Specialist** at *Ontech ICT*  
 
 ---
 
