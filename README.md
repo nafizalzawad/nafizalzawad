@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nafiz Al Zawad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=6th+Semester+CSE+Student+%7C+Team+Leader+(Blockchain+Project);Passionate+about+Web+Development%2C+Blockchain+%26+AI;Ex-Virtual+Executive+at+Doin+Tech+%7C+Ex-S%26M+Specialist+at+Eightcap;Built+TrafficMind+%26+Portfolio+Site+zawad-dev.vercel.app;Football+Enthusiast+%7C+Tech+Explorer+%7C+AI+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=CSE+Student+%7C+Team+Leader+(Blockchain+Project);Passionate+about+Web+Development%2C+Blockchain+%26+AI;Ex-Virtual+Executive+at+Doin+Tech+%7C+Ex-S%26M+Specialist+at+Eightcap;Built+TrafficMind+%26+Portfolio+Site+zawad-dev.vercel.app;Football+Enthusiast+%7C+Tech+Explorer+%7C+AI+Learner" alt="Typing SVG" />
 </p>
 
 ---
