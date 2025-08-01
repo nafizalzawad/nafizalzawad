@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 6th Semester **B.Sc. in Computer Science & Engineering**
+- 🎓 7th Semester **B.Sc. in Computer Science & Engineering**
 - 🧠 Leading a **Blockchain-based Medical Management System** as **Team Leader**
 - 🛠️ Built [**TrafficMind**](https://github.com/nafizalzawad/TrafficMind), a real-time vehicle management system using Flask + Socket.IO
 - 🌐 Created my **[portfolio website](https://zawad-dev.vercel.app)** using modern web tech
