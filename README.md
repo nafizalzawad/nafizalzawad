@@ -8,17 +8,21 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 7th Semester **B.Sc. in Computer Science & Engineering**
-- 🧠 Leading a **Blockchain-based Medical Management System** as **Team Leader**
-- 🛠️ Built [**TrafficMind**](https://github.com/nafizalzawad/TrafficMind), a real-time vehicle management system using Flask + Socket.IO
-- 🌐 Created my **[portfolio website](https://zawad-dev.vercel.app)** using modern web tech
-- 💼 Former **Virtual Executive, Client Experience** at *Doin Tech*
-- 📊 Former **Sales & Marketing Specialist** at *Eightcap*
-- 📝 Former **Football Content Writer** at *The Daily Janakantha*
-- 🏆 **Bishwo Shahitto Kendro** prize winner (2015 & 2016)
-- 🚀 Passionate about **Web Development, DBMS, Blockchain, AI**
-- ⚽ Love football, solving problems & exploring impactful tech!
+I am a highly motivated Computer Science student (graduating in 7 months) actively seeking a career in Software Quality Assurance. My passion lies in finding elegant solutions to complex problems and ensuring system resilience before deployment.
 
+My experience demonstrates a strong foundation in systematic analysis and functional validation:
+
+Systems Architect & Validator: Worked in a Blockchain-based Medical Management System as Team Leader. This involves rigorous planning and testing of data integrity, security protocols, and system throughput—core SQA domains.
+
+Real-time Performance Testing: Developed TrafficMind, a real-time vehicle management system using Flask + Socket.IO. This project honed my skills in performance optimization and identifying latency issues under load.
+
+UX/UI Focus on Precision: Engineered a high-fidelity, dual-theme web platform (like the Luxora project) where the final focus was on micro-interaction validation, CLS score optimization, and cross-browser consistency—all critical for high-quality user experience.
+
+Structured Analysis: Experienced in generating comprehensive architectural documentation, including DFDs, ERDs, and Activity Diagrams, proving an ability to map complex flows and identify critical test cases early in the SDLC.
+
+Leadership & Communication: Previous roles in client experience, sales, and content writing have equipped me with the essential soft skills for clear, concise defect reporting and cross-functional team collaboration.
+
+I am driven to master test automation, security testing, and advanced debugging to ensure flawless product delivery. Let's connect and build something resilient! ⚽
 ---
 
 ## 📈 GitHub Stats
