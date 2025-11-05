@@ -28,19 +28,7 @@ I am driven to master test automation, security testing, and advanced debugging 
 
 ## 📈 GitHub Stats & Activity
 
-### 👨‍💻 GitHub Profile Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nafizalzawad&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nafizalzawad&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak" />
-</p>
-
-### 📊 Top Languages & Contributions
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafizalzawad&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://activity-graph.herokuapp.com/graph?username=nafizalzawad&theme=github&hide_border=true" alt="Activity Graph" />
-</p>
+## 📈 GitHub Stats <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nafizalzawad&show_icons=true&theme=tokyonight&count_private=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nafizalzawad&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafizalzawad&layout=compact&theme=tokyonight" /> </p>
 
 
 ---
