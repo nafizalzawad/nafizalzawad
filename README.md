@@ -43,12 +43,23 @@ I am driven to master test automation, security testing, and advanced debugging 
 
 ## 🚀 Notable Projects
 
-### 🚦 **TrafficMind: Vehicle Management System**  
-🔗 [GitHub Repository](https://github.com/nafizalzawad/TrafficMind)  
-Built using **Flask, MySQL, Bootstrap, and Socket.IO**. Provides real-time updates for vehicle records and fines.
+### 👑 **Luxora: Premium Multi-Role Booking Platform**  
+
+🔗 Live Demo: luxorabd.vercel.app
+(Codebase is private/internal. Architectural documents available upon request.)
+
+Built with a React-based front end and Tailwind CSS. This high-fidelity platform is architected for three distinct user roles: Customer, Service Provider, and Administrator.
+
+Key SQA and Validation Focus:
+
+System Validation: Defined complex data integrity rules using pre-development ERD, DFD, and Activity Diagrams.
+
+Performance Engineering: Rigorously optimized the user interface for speed, achieving an LCP of ~768ms and CLS of 0 (verified via GTMetrix).
+
+Aesthetic Quality: Implemented a sophisticated dual-theme (Dark/Light) design with micro-interaction testing to guarantee a seamless, premium user experience.
 
 ### 🧑‍💼 **Portfolio Website**  
-🌐 [zawad-dev.vercel.app](https://zawad-dev.vercel.app)  
+🌐 [zawad.dev](https://zawad.dev)  
 Built with **HTML, CSS, JavaScript, and responsive design** to showcase projects and resume.
 
 ---
@@ -59,7 +70,7 @@ Built with **HTML, CSS, JavaScript, and responsive design** to showcase projects
   <a href="https://www.linkedin.com/in/nafizalzawad/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://zawad-dev.vercel.app">
+  <a href="https://zawad.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
