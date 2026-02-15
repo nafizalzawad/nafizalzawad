@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a highly motivated Computer Science student (graduating in 7 months) actively seeking a career in Software Quality Assurance. My passion lies in finding elegant solutions to complex problems and ensuring system resilience before deployment.
+I am a highly motivated Computer Science student (graduating in 3 months) actively seeking a career in Software Quality Assurance. My passion lies in finding elegant solutions to complex problems and ensuring system resilience before deployment.
 
 My experience demonstrates a strong foundation in systematic analysis and functional validation:
 
