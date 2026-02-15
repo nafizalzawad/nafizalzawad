@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nafiz Al Zawad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=SQA+Focused+%7C+Graduating+in+7+Months;Team+Leader+%26+System+Validator+(Blockchain);Passionate+about+Quality%2C+DBMS+%26+Automation;Ex-Virtual+Executive+at+Doin+Tech;Ex-S%26M+Specialist+at+Eightcap;Built+TrafficMind+(Performance+Testing);Proven+Attention+to+Detail+%26+Architecture;Football+Enthusiast+%7C+Tech+Explorer+%7C+AI+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=SQA+Focused+%7C+Graduating+in+3+Months;Team+Leader+%26+System+Validator+(Blockchain);Passionate+about+Quality%2C+DBMS+%26+Automation;Ex-Virtual+Executive+at+Doin+Tech;Ex-S%26M+Specialist+at+Eightcap;Built+TrafficMind+(Performance+Testing);Proven+Attention+to+Detail+%26+Architecture;Football+Enthusiast+%7C+Tech+Explorer+%7C+AI+Learner" alt="Typing SVG" />
 </p>
 
 
